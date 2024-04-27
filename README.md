@@ -1,3 +1,3 @@
 # hello-world
 First repository/learning
-**I am coldbrewslam.**
+**I am CodeBrewSlam.**
